@@ -1,0 +1,10 @@
+C:\Users\Furkan\source\repos\Chess Board\Chess Board\bin\Debug\Chess Board.exe.config
+C:\Users\Furkan\source\repos\Chess Board\Chess Board\bin\Debug\Chess Board.exe
+C:\Users\Furkan\source\repos\Chess Board\Chess Board\bin\Debug\Chess Board.pdb
+C:\Users\Furkan\source\repos\Chess Board\Chess Board\obj\Debug\Chess Board.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\Chess Board\Chess Board\obj\Debug\Chess_Board.Form1.resources
+C:\Users\Furkan\source\repos\Chess Board\Chess Board\obj\Debug\Chess_Board.Properties.Resources.resources
+C:\Users\Furkan\source\repos\Chess Board\Chess Board\obj\Debug\Chess Board.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\Chess Board\Chess Board\obj\Debug\Chess Board.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Chess Board\Chess Board\obj\Debug\Chess Board.exe
+C:\Users\Furkan\source\repos\Chess Board\Chess Board\obj\Debug\Chess Board.pdb
